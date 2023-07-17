@@ -1,4 +1,4 @@
-# Thank you for this great opportunity
+
 # instructions on how to run this project
 - After cloning the repo
 - npm install
