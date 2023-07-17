@@ -15,4 +15,4 @@ STEPS ON HOW TO RUN THE PROJECT
   -DATABASE
     -MONGODB
 
-  Thanks, Hope to hear from you soon
+  Thanks, hope to hear from you soon
